@@ -58,16 +58,6 @@ This is a simple binary classification project using TensorFlow for building a n
 - `predict.py`: Script to make predictions on new images.
 - `requirements.txt`: List of required Python libraries.
 
-## Contributing
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/YourFeature`)
-3. Commit your changes (`git commit -am 'Add your feature'`)
-4. Push to the branch (`git push origin feature/YourFeature`)
-5. Create a new Pull Request
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 - [TensorFlow](https://www.tensorflow.org/)
 - [Matplotlib](https://matplotlib.org/)
